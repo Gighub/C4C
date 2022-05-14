@@ -1,0 +1,209 @@
+{
+  "version": "1.0-RC.4",
+  "menu": {
+    "options": {
+      "yes": {},
+      "policy": {},
+      "no": {}
+    }
+  },
+  "quiz": {
+    "options": {
+      "methodsRecomended": {},
+      "methodsAll": {},
+      "periods": {}
+    }
+  },
+  "policy": {
+    "options": {
+      "menu": {},
+      "end": {}
+    }
+  },
+  "end": {
+    "options": {}
+  },
+  "yourSituation": {
+    "options": {
+      "avoidPregnancy": {},
+      "avoidHIV+IST": {}
+    }
+  },
+  "preventionHIV+STI": {
+    "options": {
+      "methods": {},
+      "screening": {},
+      "quiz": {}
+    }
+  },
+  "avoidPregnancy": {
+    "options": {
+      "start": {}
+    }
+  },
+  "gender": {
+    "options": {
+      "F": {},
+      "M": {},
+      "N": {}
+    }
+  },
+  "futurePregnancy": {
+    "options": {
+      "N": {},
+      "Y": {}
+    }
+  },
+  "breastFeeding": {
+    "options": {
+      "N": {},
+      "Y": {}
+    }
+  },
+  "age": {
+    "options": {
+      ">18": {},
+      "<18": {}
+    }
+  },
+  "factor1": {
+    "options": {
+      "Effectiveness": {},
+      "Privacy": {},
+      "FewSideEffects": {}
+    }
+  },
+  "factor2": {
+    "options": {
+      "EasyToStop": {},
+      "EasyToForget": {},
+      "Effectiveness": {},
+      "Privacy": {},
+      "FewSideEffects": {},
+      "SelfAdministered": {}
+    }
+  },
+  "factors2vs1": {
+    "options": {
+      "+": {},
+      "=": {},
+      "-": {}
+    }
+  },
+  "factor3": {
+    "options": {
+      "EasyToStop": {},
+      "EasyToForget": {},
+      "Effectiveness": {},
+      "Privacy": {},
+      "FewSideEffects": {},
+      "SelfAdministered": {}
+    }
+  },
+  "factors3vs12": {
+    "options": {
+      "+": {},
+      "=": {},
+      "-": {}
+    }
+  },
+  "sideEffects": {
+    "options": {
+      "PrevisiblePeriods": {},
+      "NoNauseaNoHeadacheNoWeight": {},
+      "LighterPeriods": {}
+    }
+  },
+  "results": {
+    "options": {
+      "Sterilization": {},
+      "IUD": {},
+      "IUS": {},
+      "Implant": {},
+      "Injectables": {},
+      "POP": {},
+      "COP": {},
+      "EC": {},
+      "Condoms": {},
+      "Cyclebeads": {},
+      "self-inject": {}
+    }
+  },
+  "Sterilization": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "IUD": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "IUS": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "Implant": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "Injectables": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "POP": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "COP": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "EC": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "Condoms": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "Cyclebeads": {
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  },
+  "self-inject":{
+    "options": {
+      "more": {},
+      "referral": {},
+      "quiz": {}
+    }
+  }
+}

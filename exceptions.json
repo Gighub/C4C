@@ -1,0 +1,27 @@
+{
+    "excludeCountryBased":{
+        "GT" : ["IUD"]
+    },
+    "excludeAnswerBased":{
+        "breastFeeding:[Y]":{
+            "add" : [],
+            "remove" : [],
+            "replace" : [{"COP":"POP"}]
+        },
+        "age:[<18]":{
+            "add":[],
+            "remove":["Sterilization"],
+            "replace" : []
+        },
+        "futurePregnancy:[Y]":{
+            "add":[],
+            "remove":["Sterilization"],
+            "replace" : []
+        }
+    },
+    "disclaimers":{
+        "gender:[M]":"gender.disclaimer",
+        "gender:[N]":"gender.disclaimer",
+        "breastFeeding:[Y]":"breastFeeding.disclaimer"
+    }
+}
